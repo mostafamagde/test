@@ -7,5 +7,5 @@ jobs:
   job1:
   runs-on: ubuntu-latest
     steps:
-     - name: hgfd
-       run: echo"kuynyuny"   
+    - name: hgfd
+      run: echo"kuynyuny"   
