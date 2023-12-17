@@ -4,5 +4,5 @@ jobs:
   job1:
     runs on : obuntu-latest
     steps:
-    -name : aaaaaaa 
-    run : echo "suiii"
+      -name: ffff
+       run : echo "suiii"
