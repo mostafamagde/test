@@ -1,0 +1,8 @@
+name: myworkflow
+on: push 
+jobs:
+  job1:
+    runs on : obuntu-latest
+    steps:
+    -name : aaaaaaa 
+    run : echo "suiii"
