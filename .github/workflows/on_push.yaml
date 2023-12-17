@@ -6,6 +6,6 @@ on:
 jobs:
   job1:
     runs-on: ubuntu-latest
-     steps:
+    steps:
      - name: hgfds
        uses: actions/checkout@v4
