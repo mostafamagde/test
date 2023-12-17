@@ -1,8 +1,8 @@
 name: aaaaa
 on: push 
 jobs:
-job1:
-  runs-on: ubuntu-latest
+  job1:
+    runs-on: ubuntu-latest
     steps:
      - name: hgfds
        run: echo"htbhbtb
