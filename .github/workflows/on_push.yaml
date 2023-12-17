@@ -1,8 +1,8 @@
-name : myworkflow
-on: push
-jobs :
-  job1:
+name: aaaaa
+on: push 
+jobs:
+ job1:
    runs-on: ubuntu-latest
-   steps: 
-      - name: dfdf
-        run: echo "yjnyhyt" 
+    steps:
+     - name: hgfds
+       run: echo"htbhbtb
