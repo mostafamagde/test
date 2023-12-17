@@ -1,11 +1,11 @@
-name: manga 
+name: njynyjn
 on:
   push:
     branches:
      - main
 jobs:
   job1:
-    runs-on: ubuntu-latest
+    runs-on : ubuntu-latest
     steps:
-    - name: hgfd
-      run: echo "kuynyuny"   
+      - name: gfdhgf
+        run: echo "bybr"
