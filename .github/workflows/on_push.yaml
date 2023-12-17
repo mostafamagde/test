@@ -2,7 +2,7 @@ name: myworkflow
 on: push 
 jobs:
   job1:
-    runs on : obuntu-latest
+    runs-on : ubuntu-latest
     steps:
-      -name: ffff
+     - name: ffff
        run : echo "suiii"
