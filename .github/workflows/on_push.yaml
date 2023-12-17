@@ -2,7 +2,7 @@ name: manga
 on:
   push:
     branches:
-    - main
+     - main
 jobs:
   job1:
   runs-on: ubuntu-latest
