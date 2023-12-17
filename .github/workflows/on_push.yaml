@@ -1,6 +1,6 @@
 name: manga 
 on:
-  pull:
+  push:
     branches:
     - main
 jobs:
